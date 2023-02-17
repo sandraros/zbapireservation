@@ -1,0 +1,2 @@
+# zbapireservation
+Copy existing reservation via BAPI_RESERVATION_GETDETAIL1 and BAPI_RESERVATION_CREATE1
